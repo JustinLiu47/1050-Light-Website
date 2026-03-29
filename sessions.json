@@ -1,0 +1,35 @@
+[
+  {
+    "id": "session_001",
+    "file": "readings/session_001.json",
+    "date": "2024/03/15",
+    "timeStart": "07:30:00",
+    "timeEnd": "07:45:58",
+    "avgClear": 312,
+    "peakClear": 480,
+    "rowCount": 450,
+    "coordinates": [42.9837, -81.2497]
+  },
+  {
+    "id": "session_002",
+    "file": "readings/session_002.json",
+    "date": "2024/03/15",
+    "timeStart": "09:00:00",
+    "timeEnd": "09:20:00",
+    "avgClear": 645,
+    "peakClear": 890,
+    "rowCount": 600,
+    "coordinates": [42.9750, -81.2550]
+  },
+  {
+    "id": "session_003",
+    "file": "readings/session_003.json",
+    "date": "2024/03/16",
+    "timeStart": "13:00:00",
+    "timeEnd": "13:12:00",
+    "avgClear": 870,
+    "peakClear": 990,
+    "rowCount": 360,
+    "coordinates": [42.9921, -81.2560]
+  }
+]

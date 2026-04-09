@@ -153,5 +153,9 @@ The homepage only fetches `sessions.json` — individual session files are only 
 
 ## Team
 
-- **Justin Liu** — Website, data infrastructure, frontend development
-- **Teammate** — Hardware, sensor firmware, field data collection
+- **Justin** — Website, data infrastructure, frontend development
+- **Samartha** — AI integration, sensor hardware, sensor coder, prototype assembly
+- **Pol** — CAD design, prototype assembly
+- **Aroma** — Presentation coordinator
+- **Taylor** — Presentation coordinator
+- **Alfred** — Cad design
